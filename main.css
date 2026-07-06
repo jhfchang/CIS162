@@ -1,0 +1,33 @@
+html {
+    background-color: #F7F7FF;
+
+}
+
+body {
+    color: #495867;
+    background-color: #F7F7FF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+
+}
+
+h1, h2 {
+    color: #BDD5EA;
+    background-color: #344966;
+}
+
+nav > ul {
+    color: #FE5F55;
+}
+
+section {
+    color: #577399;
+}
+
+
+footer {
+    color: #FE5F55;
+}
