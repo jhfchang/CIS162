@@ -22,7 +22,7 @@ ul {
 }
 
 a {
-    color:#C3979F;
+    color: #8B4A56;
 }
 
 a:hover {
@@ -48,7 +48,7 @@ h1 {
 h2 {
     margin: 0;
     margin-left: 10px;
-    color: #B5B2C2;
+    color: #F0EFF2;
     background-color: #5A7D7C;
 }
 
@@ -111,7 +111,7 @@ nav.horizontalnavigation li a:hover {
 
 footer {
     clear: left;
-    color: #5E6973;
+    color: #C7CDD3;
     padding: 15px;
     background-color: #232C33
 }
